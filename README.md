@@ -1,4 +1,4 @@
-# bioreactor-feedback-system
+# Masterflex Pump Controller
 Bioreactor Feedback System Software and Hardware
 
 ## Pump Control Hardware
