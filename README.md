@@ -2,7 +2,7 @@
 Bioreactor Feedback System Software and Hardware
 
 ## Pump Control Hardware
-![Pump Control PCB](https://github.mit.edu/hgaens/bioreactor-feedback-system/blob/main/Photos/assembled_pcb.jpg?raw=true)
+![Pump Control PCB](Photos/assembled_pcb.jpg)
 
 ## Pump Control Connection
 
